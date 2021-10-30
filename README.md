@@ -1,4 +1,4 @@
-- 👋 Hello. I’m William Romanowski @wromanowski
+- 👋 Hello. I’m William Romanowski of Perry, Iowa @wromanowski
 - 👀 I’m interested in embedded dev, SDR, UI, 3d, Swift, macOS, Arduino, ESP32
 - 🌱 I’m currently learning PlatformIO
 - 💞️ I’m looking to collaborate on peaceful resolutions
