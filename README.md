@@ -1,5 +1,5 @@
 - 👋 Hello. I’m William Romanowski @wromanowski
-- 👀 I’m interested in embedded dev, SDR, UI, 3d, macOS, Arduino, ESP32
+- 👀 I’m interested in embedded dev, SDR, UI, 3d, Swift, macOS, Arduino, ESP32
 - 🌱 I’m currently learning PlatformIO
 - 💞️ I’m looking to collaborate on peaceful resolutions
 - 📫 tranquility@mac.com
